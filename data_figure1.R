@@ -86,7 +86,7 @@ plot_h1n1_2009
 #covid plot#
 options(scipen=999)
 
-#download from lecohen/SARSA-CoV-2_pandemic-to-endemic github#
+#download from lecohen/SARS-CoV-2_pandemic-to-endemic github#
 covid <- read_excel("~/Downloads/owid-covid-data.xlsx")
 ##
 
