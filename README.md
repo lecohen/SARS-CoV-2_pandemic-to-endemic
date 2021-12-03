@@ -1,2 +1,2 @@
 # SARS-CoV-2_pandemic-to-endemic
-The shift from pandemic to endemic SARS-CoV-2
+Includes all data and code for figures (for Cohen et al. 2021)
